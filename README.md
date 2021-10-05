@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dominic Wasiewicz
 #### Computer Science 
-![Computer Science ](https://media-exp1.licdn.com/dms/image/C5616AQEX8wt6VmyI-A/profile-displaybackgroundimage-shrink_200_800/0/1632176245078?e=1639008000&v=beta&t=A33OXFORntUanORqtJyfcIYHKp4Hod76HJWe0orSPzg)
+![Computer Science ](https://github.com/DominicWasiewicz/DominicWasiewicz/blob/main/Banner.jpg)
 
 I'm Dominic and I am currently a Computer Science student in Toronto. I enjoy learning languages and frame works like React and Java. I am also interested in other areas such ui design, and the area in general.
 
