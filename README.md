@@ -10,5 +10,5 @@ I'm Dominic and I'm currently a Computer Science student in Toronto. I enjoy lea
 
 * 📫 How to reach me: Feel free to send me a message on Linkedin using the link below.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dominic-wasiewicz/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/dominic-wasiewicz)  
 
