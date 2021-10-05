@@ -2,9 +2,9 @@
 # Dominic Wasiewicz
 I'm Dominic and I'm currently a Computer Science student in Toronto. I enjoy learning languages and frame works like React and Java. I am also interested in other areas such ui design, and the area in general.
 ## Skills and Experience 
-- [x] :pen: Java 
-- [x] :iphone: React 
-- [x] :computer: HTML, CSS, JS
+ - [x] :pen: Java 
+ - [x] :iphone: React 
+ - [x] :computer: HTML, CSS, JS
 
 * 📫 How to reach me: [dominic.wasiewicz@outlook.com](mailto:dominic.wasiewicz@outlook.com)
 
