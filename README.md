@@ -6,9 +6,9 @@ I'm Dominic and I'm currently a Computer Science student in Toronto. I enjoy lea
 - [x] :iphone: React 
 - [x] :computer: HTML, CSS, JS
 
+- [x] 📫 How to reach me: [dominic.wasiewicz@outlook.com](mailto:dominic.wasiewicz@outlook.com)
 
 
-- 📫 How to reach me: dominic.wasiewicz@outlook.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dominicwasiewicz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dominic-wasiewicz/)  
