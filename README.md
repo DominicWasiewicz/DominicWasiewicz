@@ -6,7 +6,7 @@ I'm Dominic and I'm currently a Computer Science student in Toronto. I enjoy lea
 - [x] :iphone: React 
 - [x] :computer: HTML, CSS, JS
 
-- [x] 📫 How to reach me: [dominic.wasiewicz@outlook.com](mailto:dominic.wasiewicz@outlook.com)
+* 📫 How to reach me: [dominic.wasiewicz@outlook.com](mailto:dominic.wasiewicz@outlook.com)
 
 
 
