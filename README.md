@@ -6,7 +6,6 @@ I'm Dominic and I'm currently a Computer Science student in Toronto. I enjoy lea
 * React
 * HTML, CSS, JS
 
-- 🔭 I’m currently working on my website 
 - 📫 How to reach me: dominic.wasiewicz@outlook.com 
 
 
