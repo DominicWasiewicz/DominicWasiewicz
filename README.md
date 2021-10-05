@@ -1,6 +1,6 @@
 ![Computer Science ](https://github.com/DominicWasiewicz/DominicWasiewicz/blob/main/Banner.jpg)
 # Dominic Wasiewicz
-I'm Dominic and I'm currently a Computer Science student in Toronto. I enjoy learning languages and frame works like React and Java. I am also interested in other areas such ui design, and the area in general.
+I'm Dominic and I'm currently a Computer Science student in Toronto. I enjoy learning languages and frameworks like React and Java. I am also interested in other areas such ui design, and the area in general.
 ## Skills and Experience 
  - [x] :pen: Java 
  - [x] :iphone: React 
