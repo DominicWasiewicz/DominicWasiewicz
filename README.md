@@ -2,7 +2,7 @@
 # Dominic Wasiewicz
 I'm Dominic and I'm currently a Computer Science student in Toronto. I enjoy learning languages and frameworks like React and Java. I am also interested in other areas such ui design, and the area in general.
 ## Skills and Experience 
- - [x] :pen: Java 
+ - [x] :pen: Java, Python
  - [x] :iphone: React 
  - [x] :computer: HTML, CSS, JS
  
